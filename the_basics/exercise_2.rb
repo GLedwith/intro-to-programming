@@ -7,3 +7,5 @@ puts "thousands: #{thousands}"
 puts "hundreds: #{hundreds}"
 puts "tens: #{tens}"
 puts "ones: #{ones}"
+
+puts
