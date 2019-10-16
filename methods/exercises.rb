@@ -1,22 +1,22 @@
 # Exercise 1
 
-# def greeting(name)
-#   "Hello #{name}"
-# end
-#
-# puts greeting("Garry")
+def greeting(name)
+  "Hello #{name}"
+end
+
+puts greeting("Garry")
 
 # Exercise 2
-#
-# 1. x = 2  # => 2
-#
-# 2. puts x = 2 # => nil
-#
-# 3. p name = "Garry" # => "Garry"
-#
-# 4. four = "four" # => "four"
-#
-# 5. print something = "nothing" # => nil
+
+1. x = 2  # => 2
+
+2. puts x = 2 # => nil
+
+3. p name = "Garry" # => "Garry"
+
+4. four = "four" # => "four"
+
+5. print something = "nothing" # => nil
 
 # Exercise 3
 
@@ -43,4 +43,4 @@ def scream(words)
   puts words
 end
 
-scream("Yippeee") => nil 
+scream("Yippeee") # => nil
